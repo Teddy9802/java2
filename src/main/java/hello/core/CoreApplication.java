@@ -11,3 +11,4 @@ public class CoreApplication {
 	}
 
 }
+//처음에 Application 실행해서 잘 동작하는지 확인해야함
