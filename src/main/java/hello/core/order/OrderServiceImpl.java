@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class OrderServiceImpl implements OrderService {
+    // 커맨드 + 시프트 + T = 새 테스트 생성
 
     private final MemberRepository memberRepository;
     private final DiscountPolicy discountPolicy;
